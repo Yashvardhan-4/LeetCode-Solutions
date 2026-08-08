@@ -63,9 +63,9 @@ Example 3:
 
 | Metric | Result | Percentile |
 | :--- | :--- | :--- |
-| ⏱️ **Runtime** | `0 ms` | N/A |
-| 🧠 **Memory** | `0.00
-MB` | N/A |
+| ⏱️ **Runtime** | `0 ms` | Beats **100.0%** |
+| 🧠 **Memory** | `45.21
+MB` | Beats **69.2%** |
 | 💻 **Language** | `C++` | - |
 | 📅 **Date** | `Aug 8, 2026` | - |
 
