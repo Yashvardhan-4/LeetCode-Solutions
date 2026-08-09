@@ -58,8 +58,9 @@ Output: [0,1]
 
 | Metric | Result | Percentile |
 | :--- | :--- | :--- |
-| ⏱️ **Runtime** | `0 ms` | N/A |
-| 🧠 **Memory** | `N/A` | N/A |
+| ⏱️ **Runtime** | `0 ms` | Beats **51.7%** |
+| 🧠 **Memory** | `14.94
+MB` | Beats **23.5%** |
 | 💻 **Language** | `C++` | - |
 | 📅 **Date** | `Aug 9, 2026` | - |
 
