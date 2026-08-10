@@ -8,7 +8,7 @@ public:
             if(nums[i] > mx) mx = nums[i];
             if(nums[i] < mn) mn = nums[i];
         }
-        set<int>st;
+        unordered_set<int>st;
         vector<int>res;
         for(int i : nums) st.insert(i);
         for(int i = mn+1;i < mx;i++){
