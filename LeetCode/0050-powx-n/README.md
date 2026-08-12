@@ -51,9 +51,9 @@ Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
 | Metric | Result | Percentile |
 | :--- | :--- | :--- |
-| ⏱️ **Runtime** | `4ms` | Beats **100.0%** |
-| 🧠 **Memory** | `N/A` | N/A |
-| 💻 **Language** | `C++` | - |
+| ⏱️ **Runtime** | `0 ms` | N/A |
+| 🧠 **Memory** | `7.9 MB` | N/A |
+| 💻 **Language** | `cpp` | - |
 | 📅 **Date** | `Aug 12, 2026` | - |
 
 ---
