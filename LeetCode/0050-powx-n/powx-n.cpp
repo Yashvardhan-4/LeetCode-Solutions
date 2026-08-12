@@ -5,5 +5,5 @@ public:
     }
         if(n == 1) return x;
         if(n == 0) return 1;
-        return x * myPow(x,n-1);
+        return (double)x * myPow(x,n-1);
 };
